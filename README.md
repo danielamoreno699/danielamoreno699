@@ -14,6 +14,10 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+``
+![Coding GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
+
 # 💫 About Me:
 - 😄I am a legal professional with a passion for coding and technology. 
 - 📫I believe that technology offers a wide range of innovative solutions to complex problems and can significantly improve the     efficiency and effectiveness of many processes.
