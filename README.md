@@ -1,4 +1,4 @@
-### Hi there , I'm Daniela, I am software developer 👋
+### Hi there , I'm Daniela, I am software developer and lawyer👋
 
 <!--
 **danielamoreno699/danielamoreno699** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
