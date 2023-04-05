@@ -9,7 +9,7 @@
 - 😄I am a legal professional with a passion for coding and technology. 
 - 📫I believe that technology offers a wide range of innovative solutions to complex problems and can significantly improve the     efficiency and effectiveness of many processes.
 - 🔭I'm working on developing and upgrading my programming skills with Microverse<br>
-- 🌱 I obtained a diploma certification in machine learning. <br>
+- 🌱 I obtained a diploma certification in machine learning from los Andes, University. Bogota, Colombia. <br>
 - 🤔I´m looking to collaborate with people around the world on different projects.<br>
 
 
