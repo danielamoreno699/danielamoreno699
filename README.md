@@ -1,4 +1,7 @@
-### Hi there , I'm Daniela, I am software developer and lawyer👋
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1D6685&background=6DDFFF00&width=435&lines=Hi+there%2C+I'm+Daniela.)](https://git.io/typing-svg)
+
+### I am software developer and lawyer👋
 
 
 
