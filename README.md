@@ -1,7 +1,8 @@
 
 
+![github-header-image (2)](https://user-images.githubusercontent.com/68881261/235278757-75adfff3-3a0c-439f-bfc6-03de64d17ebf.png)
 
-![github-header-image (1)](https://user-images.githubusercontent.com/68881261/235277867-51f38af1-63a5-4b71-9b22-93f75452515a.png)
+
 
 
 # 💫 About Me:
